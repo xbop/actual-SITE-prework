@@ -39,8 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]https://drive.google.com/file/d/1zOiobNjktucGEmrjixcUMlVBdAoj7_up/view?usp=sharing
-![]https://drive.google.com/file/d/1MH4h4B3mU-P3VLkRZ4VPs_TbBqcyW4y-/view?usp=sharing
+![]https://imgur.com/hrMBA82
+![]https://imgur.com/RnVPaxy
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
