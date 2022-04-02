@@ -39,8 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]file:///Users/imanimusembi/Downloads/Light%20and%20Sound%20Memory%20Game.gif
-![]file:///Users/imanimusembi/Downloads/Light%20and%20Sound%20Memory%20Game-3.gif
+![]https://drive.google.com/file/d/1zOiobNjktucGEmrjixcUMlVBdAoj7_up/view?usp=sharing
+![]https://drive.google.com/file/d/1MH4h4B3mU-P3VLkRZ4VPs_TbBqcyW4y-/view?usp=sharing
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
